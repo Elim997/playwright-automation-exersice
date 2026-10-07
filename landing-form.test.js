@@ -5,10 +5,10 @@ const SITE_URL = "https://test.netlify.app/";
 
 const FORM_DATA = {
   name: "Eli Manashirov",
-  email: "eli.manashirov@gmail.com",
+  email: "test@example.com",
   phone: "0541234567",
   company: "TEST Software",
-  website: "test@example.com",
+  website: "https://example.com",
   employees: "51-500",
 };
 
