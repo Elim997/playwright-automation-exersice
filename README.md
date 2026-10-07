@@ -1,4 +1,4 @@
-# Jones Automation Exercise
+# Playwright Automation Exercise
 
 Playwright + Mocha automation for `https://test.netlify.app/`.
 
