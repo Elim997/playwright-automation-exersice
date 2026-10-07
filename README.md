@@ -39,3 +39,5 @@ The screenshot is saved in the project root as `before-submit.png`.
 I used label-based selectors where possible, because they are easier to read and closer to how a user sees the form.
 
 For the text fields, there is also a fallback to the input `name` attribute. This is useful if a label exists visually but is not connected correctly to the input in the HTML.
+
+The target URL in `landing-form.test.js` (`SITE_URL`) is a placeholder from the original exercise. Replace it to run the test against another form.
