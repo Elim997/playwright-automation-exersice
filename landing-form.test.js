@@ -7,8 +7,8 @@ const FORM_DATA = {
   name: "Eli Manashirov",
   email: "eli.manashirov@gmail.com",
   phone: "0541234567",
-  company: "Jones Software",
-  website: "https://www.getjones.com",
+  company: "TEST Software",
+  website: "test@example.com",
   employees: "51-500",
 };
 
